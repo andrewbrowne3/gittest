@@ -172,7 +172,7 @@ P ?
 loop_
 _entity_poly_seq.entity_id 
 _entity_poly_seq.num 
-_entity_poly_seq.mon_id 
+
 _entity_poly_seq.hetero 
 1 1   GLU n 
 1 2   VAL n 
